@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Tim subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="AccMan Pro" title="AccMan Pro" type="rss"
+            xmlUrl="http://feeds.feedburner.com/theaccman" htmlUrl="http://www.accmanpro.com"/>
+        <outline text="AFL Latest News" title="AFL Latest News"
+            type="rss" xmlUrl="http://feeds.feedburner.com/aflcomau" htmlUrl="http://www.afl.com.au"/>
+        <outline text="BBC Sport - Rugby Union"
+            title="BBC Sport - Rugby Union" type="rss"
+            xmlUrl="http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/rugby_union/rss.xml" htmlUrl="http://www.bbc.co.uk/sport/0/rugby-union/"/>
+        <outline text="Delicious/timstephenson"
+            title="Delicious/timstephenson" type="rss"
+            xmlUrl="http://feeds.delicious.com/v2/rss/timstephenson?count=15" htmlUrl="http://previous.delicious.com/timstephenson"/>
+        <outline text="eXo Blog - The Cloud User Experience Platform"
+            title="eXo Blog - The Cloud User Experience Platform"
+            type="rss" xmlUrl="http://blog.exoplatform.org/feed/" htmlUrl="http://blog.exoplatform.com"/>
+        <outline text="FacileThings Blog" title="FacileThings Blog"
+            type="rss" xmlUrl="http://facilethings.com/feed.en.rss" htmlUrl="http://facilethings.com/blog/en"/>
+        <outline text="Field Guide to the Field Guide"
+            title="Field Guide to the Field Guide" type="rss"
+            xmlUrl="http://museumvictoria.com.au/discoverycentre/mv-field-guide-app/blog/rss/" htmlUrl="http://museumvictoria.com.au/"/>
+        <outline text="Google Alerts - raspberry pi"
+            title="Google Alerts - raspberry pi" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/11755356051962732431" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F11755356051962732431"/>
+        <outline text="Google Alerts - tibco"
+            title="Google Alerts - tibco" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/10406572958255591271" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F10406572958255591271"/>
+        <outline
+            text="Productivity Bits - Productivity &amp; GTD Hacks Blog"
+            title="Productivity Bits - Productivity &amp; GTD Hacks Blog"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/ProductivityBits" htmlUrl="http://www.productivitybits.com"/>
+        <outline text="Terminal Geeks_" title="Terminal Geeks_"
+            type="rss"
+            xmlUrl="http://feeds.feedburner.com/terminalgeeks" htmlUrl="http://www.ignitionsix.com"/>
+        <outline title="BPM" text="BPM">
+            <outline text="Activiti All" title="Activiti All" type="rss"
+                xmlUrl="http://forums.activiti.org/en/feed.php" htmlUrl="http://forums.activiti.org/en/index.php"/>
+            <outline text="Activiti Engine" title="Activiti Engine"
+                type="rss"
+                xmlUrl="http://forums.activiti.org/en/feed.php?f=6" htmlUrl="http://forums.activiti.org/en/index.php"/>
+            <outline text="BPM Leader" title="BPM Leader" type="rss"
+                xmlUrl="http://feeds.feedburner.com/BPMLeader?format=xml" htmlUrl="http://www.bpmleader.com"/>
+            <outline text="BPMN 2.0 / Activiti in Action"
+                title="BPMN 2.0 / Activiti in Action" type="rss"
+                xmlUrl="http://bpmn20inaction.blogspot.com/feeds/posts/default" htmlUrl="http://bpmn20inaction.blogspot.com/"/>
+            <outline text="BPMS Watch" title="BPMS Watch" type="rss"
+                xmlUrl="http://feeds.feedburner.com/brsilver/toIM" htmlUrl="http://brsilver.com"/>
+            <outline text="Collaborative Planning &amp; Social Business"
+                title="Collaborative Planning &amp; Social Business"
+                type="rss" xmlUrl="http://social-biz.org/feed/" htmlUrl="http://social-biz.org"/>
+            <outline text="Column 2" title="Column 2" type="rss"
+                xmlUrl="http://www.column2.com/feed/" htmlUrl="http://www.column2.com"/>
+            <outline text="Connie Moore's blog"
+                title="Connie Moore's blog" type="rss"
+                xmlUrl="http://blogs.forrester.com/connie_moore/feed" htmlUrl="http://blogs.forrester.com/connie_moore"/>
+            <outline text="ebizQ Forum" title="ebizQ Forum" type="rss"
+                xmlUrl="http://feeds.feedburner.com/EbizqForum?format=xml" htmlUrl="http://www.ebizq.net/blogs/ebizq_forum/"/>
+            <outline text="Gamification Of Work"
+                title="Gamification Of Work" type="rss"
+                xmlUrl="http://gamificationofwork.com/feed" htmlUrl="http://gamificationofwork.com"/>
+            <outline text="Google Alerts - 'adaptive case management'"
+                title="Google Alerts - 'adaptive case management'"
+                type="rss"
+                xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/5466451254779365856" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F5466451254779365856"/>
+            <outline text="Google Alerts - bpm"
+                title="Google Alerts - bpm" type="rss"
+                xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/10756576049553360904" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F10756576049553360904"/>
+            <outline text="Google Alerts - bpmn"
+                title="Google Alerts - bpmn" type="rss"
+                xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/7855833599204084299" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F7855833599204084299"/>
+            <outline text="Google Alerts - cmmn"
+                title="Google Alerts - cmmn" type="rss"
+                xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/11202733082974259242" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F11202733082974259242"/>
+            <outline text="Google Alerts - xpdl"
+                title="Google Alerts - xpdl" type="rss"
+                xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/13207481265822864564" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F13207481265822864564"/>
+            <outline text="jBPM" title="jBPM" type="rss"
+                xmlUrl="http://community.jboss.org/community/feeds/allcontent?community=2034" htmlUrl="https://community.jboss.org/community/jbpm"/>
+            <outline text="jBPM Development" title="jBPM Development"
+                type="rss"
+                xmlUrl="http://community.jboss.org/community/feeds/allcontent?community=2035" htmlUrl="https://community.jboss.org/community/jbpm/dev"/>
+            <outline text="Jim Sinur" title="Jim Sinur" type="rss"
+                xmlUrl="http://blogs.gartner.com/jim_sinur/feed/" htmlUrl="http://blogs.gartner.com/jim_sinur"/>
+            <outline text="Pyke's Place" title="Pyke's Place" type="rss"
+                xmlUrl="http://pykesplace.blogspot.com/feeds/posts/default" htmlUrl="http://pykesplace.blogspot.com/"/>
+            <outline text="The Process Ninja" title="The Process Ninja"
+                type="rss"
+                xmlUrl="http://feeds2.feedburner.com/theprocessninja/CNUV" htmlUrl="http://www.theprocessninja.com/"/>
+            <outline text="The Process Quality Blog"
+                title="The Process Quality Blog" type="rss"
+                xmlUrl="http://taraneon.de/blog/feed/" htmlUrl="http://taraneon.de/blog"/>
+            <outline text="TIBCOmmunity - BPM"
+                title="TIBCOmmunity - BPM" type="rss"
+                xmlUrl="http://www.tibcommunity.com/community/feeds/allcontent?community=2016" htmlUrl="https://www.tibcommunity.com/community/products/bpm"/>
+            <outline text="TIBCOmmunity Business Studio"
+                title="TIBCOmmunity Business Studio" type="rss"
+                xmlUrl="http://www.tibcommunity.com/community/feeds/allcontent?community=2017" htmlUrl="https://www.tibcommunity.com/community/products/soa_application_development/businessstudio"/>
+            <outline text="Tom Baeyens" title="Tom Baeyens" type="rss"
+                xmlUrl="http://processdevelopments.blogspot.com/feeds/posts/default" htmlUrl="http://processdevelopments.blogspot.com/"/>
+            <outline text="Welcome to the Real (IT) World!"
+                title="Welcome to the Real (IT) World!" type="rss"
+                xmlUrl="https://isismjpucher.wordpress.com/feed/" htmlUrl="http://isismjpucher.wordpress.com"/>
+            <outline text="Welcome to the Real (IT) World!"
+                title="Welcome to the Real (IT) World!" type="rss"
+                xmlUrl="http://isismjpucher.wordpress.com/feed/" htmlUrl="http://isismjpucher.wordpress.com"/>
+        </outline>
+        <outline title="Startup" text="Startup">
+            <outline text="David Gildeh" title="David Gildeh" type="rss"
+                xmlUrl="http://feeds.feedburner.com/DavidGildeh" htmlUrl="http://davidgildeh.com"/>
+            <outline text="Ergo Digital" title="Ergo Digital" type="rss"
+                xmlUrl="http://www.ergodigital.com/feed" htmlUrl="http://ergodigital.com"/>
+            <outline text="The Computer Says How?"
+                title="The Computer Says How?" type="rss"
+                xmlUrl="http://peterwhibley.wordpress.com/feed/" htmlUrl="http://peterwhibley.wordpress.com"/>
+            <outline text="The Future of Work... unlimited"
+                title="The Future of Work... unlimited" type="rss"
+                xmlUrl="http://cjbuilt.info/feed/" htmlUrl="http://thefutureofwork.net"/>
+            <outline text="The Startup Toolkit Blog"
+                title="The Startup Toolkit Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TheStartupToolkit" htmlUrl="http://thestartuptoolkit.com/blog"/>
+            <outline text="TheMeetingMinutes.com"
+                title="TheMeetingMinutes.com" type="rss"
+                xmlUrl="http://themeetingminutes.com/feed/" htmlUrl="http://themeetingminutes.com"/>
+        </outline>
+        <outline title="Tech" text="Tech">
+            <outline text="Amazon Web Services Blog"
+                title="Amazon Web Services Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/AmazonWebServicesBlog" htmlUrl="http://aws.typepad.com/aws/"/>
+            <outline text="isite_html5 - Online Community"
+                title="isite_html5 - Online Community" type="rss"
+                xmlUrl="http://rss.tmcnet.com/rss/grss.ashx?cnl=278" htmlUrl="http://www.html5report.com"/>
+            <outline text="There’s not a moment to lose!"
+                title="There’s not a moment to lose!" type="rss"
+                xmlUrl="http://mreinhold.org/blog/_feed.atom" htmlUrl="http://mreinhold.org/blog/"/>
+            <outline text="Ubuntu One Blog" title="Ubuntu One Blog"
+                type="rss"
+                xmlUrl="http://voices.canonical.com/ubuntuone/?feed=rss2" htmlUrl="http://voices.canonical.com/ubuntuone"/>
+        </outline>
+        <outline title="News" text="News">
+            <outline text="BBC News | News Front Page | World Edition"
+                title="BBC News | News Front Page | World Edition"
+                type="rss"
+                xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml" htmlUrl="http://www.bbc.co.uk/news/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline text="BBC Sport | Cricket | UK Edition"
+                title="BBC Sport | Cricket | UK Edition" type="rss"
+                xmlUrl="http://newsrss.bbc.co.uk/rss/sportonline_uk_edition/cricket/rss.xml" htmlUrl="http://www.bbc.co.uk/sport/0/cricket/"/>
+            <outline text="CNN.com" title="CNN.com" type="rss"
+                xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss" htmlUrl="http://www.cnn.com/index.html?eref=rss_topstories"/>
+            <outline text="MarketWatch.com - Top Stories"
+                title="MarketWatch.com - Top Stories" type="rss"
+                xmlUrl="http://www.marketwatch.com/rss/topstories" htmlUrl="http://www.marketwatch.com/"/>
+        </outline>
+    </body>
+</opml>

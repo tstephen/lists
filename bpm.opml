@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Business Process Management</title>
+    </head>
+    <body>
+        <outline text="AccMan Pro" title="AccMan Pro" type="rss"
+            xmlUrl="http://feeds.feedburner.com/theaccman" htmlUrl="http://www.accmanpro.com"/>
+        <outline text="Google Alerts - tibco"
+            title="Google Alerts - tibco" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/10406572958255591271" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F10406572958255591271"/>
+        <outline text="Activiti All" title="Activiti All" type="rss"
+            xmlUrl="http://forums.activiti.org/en/feed.php" htmlUrl="http://forums.activiti.org/en/index.php"/>
+        <outline text="Activiti Engine" title="Activiti Engine"
+            type="rss"
+            xmlUrl="http://forums.activiti.org/en/feed.php?f=6" htmlUrl="http://forums.activiti.org/en/index.php"/>
+        <outline text="BPM Leader" title="BPM Leader" type="rss"
+            xmlUrl="http://feeds.feedburner.com/BPMLeader?format=xml" htmlUrl="http://www.bpmleader.com"/>
+        <outline text="BPMN 2.0 / Activiti in Action"
+            title="BPMN 2.0 / Activiti in Action" type="rss"
+            xmlUrl="http://bpmn20inaction.blogspot.com/feeds/posts/default" htmlUrl="http://bpmn20inaction.blogspot.com/"/>
+        <outline text="BPMS Watch" title="BPMS Watch" type="rss"
+            xmlUrl="http://feeds.feedburner.com/brsilver/toIM" htmlUrl="http://brsilver.com"/>
+        <outline text="Collaborative Planning &amp; Social Business"
+            title="Collaborative Planning &amp; Social Business"
+            type="rss" xmlUrl="http://social-biz.org/feed/" htmlUrl="http://social-biz.org"/>
+        <outline text="Column 2" title="Column 2" type="rss"
+            xmlUrl="http://www.column2.com/feed/" htmlUrl="http://www.column2.com"/>
+        <outline text="Connie Moore's blog"
+            title="Connie Moore's blog" type="rss"
+            xmlUrl="http://blogs.forrester.com/connie_moore/feed" htmlUrl="http://blogs.forrester.com/connie_moore"/>
+        <outline text="ebizQ Forum" title="ebizQ Forum" type="rss"
+            xmlUrl="http://feeds.feedburner.com/EbizqForum?format=xml" htmlUrl="http://www.ebizq.net/blogs/ebizq_forum/"/>
+        <outline text="Gamification Of Work"
+            title="Gamification Of Work" type="rss"
+            xmlUrl="http://gamificationofwork.com/feed" htmlUrl="http://gamificationofwork.com"/>
+        <outline text="Google Alerts - 'adaptive case management'"
+            title="Google Alerts - 'adaptive case management'"
+            type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/5466451254779365856" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F5466451254779365856"/>
+        <outline text="Google Alerts - bpm"
+            title="Google Alerts - bpm" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/10756576049553360904" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F10756576049553360904"/>
+        <outline text="Google Alerts - bpmn"
+            title="Google Alerts - bpmn" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/7855833599204084299" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F7855833599204084299"/>
+        <outline text="Google Alerts - cmmn"
+            title="Google Alerts - cmmn" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/11202733082974259242" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F11202733082974259242"/>
+        <outline text="Google Alerts - xpdl"
+            title="Google Alerts - xpdl" type="rss"
+            xmlUrl="http://www.google.com/reader/public/atom/user/05790077257180173767/state/com.google/alerts/13207481265822864564" htmlUrl="http://www.google.com/reader/view/user%2F05790077257180173767%2Fstate%2Fcom.google%2Falerts%2F13207481265822864564"/>
+        <outline text="jBPM" title="jBPM" type="rss"
+            xmlUrl="http://community.jboss.org/community/feeds/allcontent?community=2034" htmlUrl="https://community.jboss.org/community/jbpm"/>
+        <outline text="jBPM Development" title="jBPM Development"
+            type="rss"
+            xmlUrl="http://community.jboss.org/community/feeds/allcontent?community=2035" htmlUrl="https://community.jboss.org/community/jbpm/dev"/>
+        <outline text="Jim Sinur" title="Jim Sinur" type="rss"
+            xmlUrl="http://blogs.gartner.com/jim_sinur/feed/" htmlUrl="http://blogs.gartner.com/jim_sinur"/>
+        <outline text="Pyke's Place" title="Pyke's Place" type="rss"
+            xmlUrl="http://pykesplace.blogspot.com/feeds/posts/default" htmlUrl="http://pykesplace.blogspot.com/"/>
+        <outline text="The Process Ninja" title="The Process Ninja"
+            type="rss"
+            xmlUrl="http://feeds2.feedburner.com/theprocessninja/CNUV" htmlUrl="http://www.theprocessninja.com/"/>
+        <outline text="The Process Quality Blog"
+            title="The Process Quality Blog" type="rss"
+            xmlUrl="http://taraneon.de/blog/feed/" htmlUrl="http://taraneon.de/blog"/>
+        <outline text="TIBCOmmunity - BPM"
+            title="TIBCOmmunity - BPM" type="rss"
+            xmlUrl="http://www.tibcommunity.com/community/feeds/allcontent?community=2016" htmlUrl="https://www.tibcommunity.com/community/products/bpm"/>
+        <outline text="TIBCOmmunity Business Studio"
+            title="TIBCOmmunity Business Studio" type="rss"
+            xmlUrl="http://www.tibcommunity.com/community/feeds/allcontent?community=2017" htmlUrl="https://www.tibcommunity.com/community/products/soa_application_development/businessstudio"/>
+        <outline text="Tom Baeyens" title="Tom Baeyens" type="rss"
+            xmlUrl="http://processdevelopments.blogspot.com/feeds/posts/default" htmlUrl="http://processdevelopments.blogspot.com/"/>
+        <outline text="Welcome to the Real (IT) World!"
+            title="Welcome to the Real (IT) World!" type="rss"
+            xmlUrl="https://isismjpucher.wordpress.com/feed/" htmlUrl="http://isismjpucher.wordpress.com"/>
+        <outline text="Welcome to the Real (IT) World!"
+            title="Welcome to the Real (IT) World!" type="rss"
+            xmlUrl="http://isismjpucher.wordpress.com/feed/" htmlUrl="http://isismjpucher.wordpress.com"/>
+    </body>
+</opml>

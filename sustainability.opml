@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Startup</title>
+    </head>
+    <body>
+        <outline title="Twitter">
+            <outline text="@trakeonews"
+                title="@trakeonews" type="rss"
+                xmlUrl="https://api.twitter.com/1/statuses/user_timeline.rss?screen_name=trakeonews" 
+                htmlUrl="https://twitter.com/trakeonews"/>
+        </outline>
+        <outline title="Blogs">
+            <outline text="TheMeetingMinutes.com"
+                title="TheMeetingMinutes.com" type="rss"
+                xmlUrl="http://themeetingminutes.com/feed/" 
+                htmlUrl="http://themeetingminutes.com"/>
+        </outline>
+    </body>
+</opml>

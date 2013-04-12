@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Startup</title>
+    </head>
+    <body>
+            <outline text="David Gildeh" title="David Gildeh" type="rss"
+                xmlUrl="http://feeds.feedburner.com/DavidGildeh" htmlUrl="http://davidgildeh.com"/>
+            <outline text="Ergo Digital" title="Ergo Digital" type="rss"
+                xmlUrl="http://www.ergodigital.com/feed" htmlUrl="http://ergodigital.com"/>
+            <outline text="The Computer Says How?"
+                title="The Computer Says How?" type="rss"
+                xmlUrl="http://peterwhibley.wordpress.com/feed/" htmlUrl="http://peterwhibley.wordpress.com"/>
+            <outline text="The Future of Work... unlimited"
+                title="The Future of Work... unlimited" type="rss"
+                xmlUrl="http://cjbuilt.info/feed/" htmlUrl="http://thefutureofwork.net"/>
+            <outline text="The Startup Toolkit Blog"
+                title="The Startup Toolkit Blog" type="rss"
+                xmlUrl="http://feeds.feedburner.com/TheStartupToolkit" htmlUrl="http://thestartuptoolkit.com/blog"/>
+            <outline text="TheMeetingMinutes.com"
+                title="TheMeetingMinutes.com" type="rss"
+                xmlUrl="http://themeetingminutes.com/feed/" htmlUrl="http://themeetingminutes.com"/>
+    </body>
+</opml>
