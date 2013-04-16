@@ -12,7 +12,9 @@
         <outline text="No Agenda" title="No Agenda" type="rss" xmlUrl="http://www.mevio.com/feeds/noagenda.xml" htmlUrl="http://noagendashow.com" />
         <outline text="RatholeRadio.org" title="RatholeRadio.org" type="rss" xmlUrl="http://feeds.feedburner.com/RatholeRadio" htmlUrl="http://ratholeradio.org" />
         <outline text="Rum Doings" title="Rum Doings" type="rss" xmlUrl="http://rumdoings.jellycast.com/podcast/feed/2" htmlUrl="http://www.rumdoings.org" />
+        <!-- 
         <outline text="SModcast » Hollywood Babble-On" title="SModcast » Hollywood Babble-On" type="rss" xmlUrl="http://smodcast.com/channels/hollywood-babble-on/feed/" htmlUrl="http://smodcast.com" />
+        -->
         <outline text="The Bugle" title="The Bugle" type="rss" xmlUrl="http://feeds.feedburner.com/thebuglefeed" htmlUrl="http://www.thebuglepodcast.com/" />
         <outline text="The Shaft" title="The Shaft" type="rss" xmlUrl="http://feeds.feedburner.com/TheShaftPodcast" htmlUrl="http://www.theshaftpodcast.com/" />
         <outline text="The YoGPoD" title="The YoGPoD" type="rss" xmlUrl="http://yogpod.libsyn.com/rss" htmlUrl="http://yogpod.libsyn.com" />
