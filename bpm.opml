@@ -4,6 +4,8 @@
         <title>Business Process Management</title>
     </head>
     <body>
+        <outline text="SimplyBPM" title="SimplyBPM" type="rss"
+            xmlUrl="" htmlUrl="http://www.simplybpm.com/blog/"/>
         <outline text="Small steps with big feet" title="Joram Barrez" type="rss"
             xmlUrl="" htmlUrl="http://www.jorambarrez.be/blog/"/>
         <outline text="AccMan Pro" title="AccMan Pro" type="rss"
